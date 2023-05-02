@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malak</h1>
 <h3 align="center">A passionate Mobile application developer from Morocco</h3>
 <img align="right" alt="Coding" width="150" height="150" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif">
-<img align="right" alt="Coding" width="150" height="150" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malaklaksai23&label=Profile%20views&color=0e75b6&style=flat" alt="malaklaksai23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malaklaksai23" alt="malaklaksai23" /></a> </p>
